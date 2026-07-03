@@ -1,52 +1,45 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2czVjeW55ZHJ4b3QzbXZzNW1sZmQ1cjV6cXEzcDRwZXJ6ejc3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Developer GIF"/>
-  
-  # Hi there 👋, I'm Girindra (Indra)
-  ### Software Engineer | Cybersecurity Enthusiast | Tech Student
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=GIRINDRA&fontSize=46&fontColor=E8E8E8&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Cybersecurity+Enthusiast;Building+IndraHub+with+Laravel+%26+React;Exploring+CTF%2C+OS+Hardening%2C+Algo+Trading" alt="typing-svg"/>
+
 </div>
 
----
+<br>
 
-### 👨‍💻 Tentang Saya
+```bash
+indra@kali:~$ whoami
+Girindra (Indra) — Software Engineering student, SMKN 2 Karanganyar
 
-- 🔭 Saya adalah siswa Rekayasa Perangkat Lunak di **SMKN 2 Karanganyar**.
-- 💼 Baru saja menyelesaikan program magang (*Internship*) di software house **PT Global Intermedia**.
-- 🌱 Saat ini sedang berfokus pada pengembangan **IndraHub** menggunakan **Laravel & React**.
-- 🛡️ Memiliki ketertarikan kuat pada keamanan siber, sering memecahkan tantangan *Capture The Flag* (CTF) dan melakukan *OS hardening*.
-- 🎯 Target akademik: Melanjutkan studi di **Telkom University**.
-- 📈 Ketertarikan lain: Eksplorasi *algorithmic trading* dan merancang skrip *trading* menggunakan Python.
-- ⚡ *Fun fact:* Saya lebih banyak menghabiskan waktu mengetik perintah di terminal Kali Linux.
+indra@kali:~$ cat current_focus.txt
+> Building IndraHub (Laravel + React)
+> Practicing CTF challenges & OS hardening
+> Writing algorithmic trading scripts in Python
 
-<div align="center">
-  <a href="https://rscripts.net/user/indrahub" target="_blank">
-    <img alt="indrahub on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/indrahub?theme=dark" />
-  </a>
-</div>
+indra@kali:~$ echo $NEXT_GOAL
+Telkom University
 
-### 🛠️ Tech Stack & Tools
+indra@kali:~$ _
+```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <br>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</div>
-
----
-
-### 📊 GitHub Stats
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraT99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndraT99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
-<div align="center">
-  <i>Let's connect and build something awesome together!</i>
+### Stack
+
+<img src="https://skillicons.dev/icons?i=laravel,react,php,python,mysql,kali,ubuntu,vscode&theme=dark" alt="skills"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=IndraT99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IndraT99&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="165"/>
+
+<br><br>
+
+[rscripts.net/indrahub](https://rscripts.net/user/indrahub)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
 </div>
