@@ -10,7 +10,7 @@
 
 ```bash
 indra@kali:~$ whoami
-(Indra) — Software Engineering student, SMKN 2 Karanganyar
+(Indra) — Software Engineering student
 
 indra@kali:~$ cat current_focus.txt
 > Building IndraHub (Laravel + React)
@@ -18,7 +18,7 @@ indra@kali:~$ cat current_focus.txt
 > Writing algorithmic trading scripts in Python
 
 indra@kali:~$ echo $NEXT_GOAL
-
+unindentified
 indra@kali:~$ _
 ```
 
