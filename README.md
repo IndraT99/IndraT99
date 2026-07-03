@@ -17,7 +17,11 @@
 - 📈 Ketertarikan lain: Eksplorasi *algorithmic trading* dan merancang skrip *trading* menggunakan Python.
 - ⚡ *Fun fact:* Saya lebih banyak menghabiskan waktu mengetik perintah di terminal Kali Linux.
 
-<a href="https://rscripts.net/user/indrahub" target="_blank"><img alt="indrahub on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/indrahub?theme=dark" /></a>
+<div align="center">
+  <a href="https://rscripts.net/user/indrahub" target="_blank">
+    <img alt="indrahub on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/indrahub?theme=dark" />
+  </a>
+</div>
 
 ### 🛠️ Tech Stack & Tools
 
