@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=GIRINDRA&fontSize=46&fontColor=E8E8E8&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=INDRA&fontSize=46&fontColor=E8E8E8&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Cybersecurity+Enthusiast;Building+IndraHub+with+Laravel+%26+React;Exploring+CTF%2C+OS+Hardening%2C+Algo+Trading" alt="typing-svg"/>
 
