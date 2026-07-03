@@ -28,7 +28,7 @@ indra@kali:~$ _
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=laravel,react,php,python,mysql,kali,ubuntu,vscode&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=laravel,react,php,python,mysql,kali,ubuntu,vscode,lua&theme=dark" alt="skills"/>
 
 <br><br>
 
