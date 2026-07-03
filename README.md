@@ -10,7 +10,7 @@
 
 ```bash
 indra@kali:~$ whoami
-Girindra (Indra) — Software Engineering student, SMKN 2 Karanganyar
+(Indra) — Software Engineering student, SMKN 2 Karanganyar
 
 indra@kali:~$ cat current_focus.txt
 > Building IndraHub (Laravel + React)
@@ -18,7 +18,6 @@ indra@kali:~$ cat current_focus.txt
 > Writing algorithmic trading scripts in Python
 
 indra@kali:~$ echo $NEXT_GOAL
-Telkom University
 
 indra@kali:~$ _
 ```
@@ -38,7 +37,7 @@ indra@kali:~$ _
 
 <br><br>
 
-[rscripts.net/indrahub](https://rscripts.net/user/indrahub)
+<a href="https://rscripts.net/user/indrahub" target="_blank"><img alt="indrahub on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/indrahub?theme=dark" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
