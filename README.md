@@ -1,45 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=INDRA&fontSize=46&fontColor=E8E8E8&animation=fadeIn&fontAlignY=38" width="100%"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · indrat99</sub></p>
+<h1>IndraBrahma</h1>
+<h2>Product-minded developer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Cybersecurity+Enthusiast;Building+IndraHub;Exploring+CTF%2C+OS+Hardening%2C+Lua+Scripting" alt="typing-svg"/>
-
+<p><a href="https://github.com/indrat99">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/141636662?u=61a298499ec3100bb6ef86dd91bc05c4639afe78&amp;v=4" width="180" alt="IndraBrahma GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<br>
+<h2>What teams can evaluate quickly</h2>
 
-```bash
-indra@kali:~$ whoami
-(Indra) — Software Engineering student
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer · Lua · Blade · PHP</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>18 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>709 contributions · 207 active days</p></td>
+</tr>
+</table>
 
-indra@kali:~$ cat current_focus.txt
-> Building IndraHub (Laravel + React)
-> Practicing CTF challenges & OS hardening
-> Writing lua scripts
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-indra@kali:~$ echo $NEXT_GOAL
-unindentified
-indra@kali:~$ _
-```
+<h2>Proof at a glance</h2>
 
-<br>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>18</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>709</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=indrat99&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141636662%3Fu%3D61a298499ec3100bb6ef86dd91bc05c4639afe78%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=indrat99&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141636662%3Fu%3D61a298499ec3100bb6ef86dd91bc05c4639afe78%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="IndraBrahma GitHub proof metrics" />
+</picture>
+</p>
 
-### Stack
+<h2>Selected work</h2>
 
-<img src="https://skillicons.dev/icons?i=laravel,react,php,python,mysql,kali,ubuntu,vscode,lua&theme=dark" alt="skills"/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=indrat99&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141636662%3Fu%3D61a298499ec3100bb6ef86dd91bc05c4639afe78%26v%3D4&repos=indrat99%2FBELAJAR%2Cindrat99%2Ftemplatewu%2Cindrat99%2Flspp1%2Cindrat99%2FRobloxScript&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=indrat99&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141636662%3Fu%3D61a298499ec3100bb6ef86dd91bc05c4639afe78%26v%3D4&repos=indrat99%2FBELAJAR%2Cindrat99%2Ftemplatewu%2Cindrat99%2Flspp1%2Cindrat99%2FRobloxScript&v=recruiter-projects-1&mode=dark" width="100%" alt="IndraBrahma selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/IndraT99/BELAJAR">BELAJAR</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/IndraT99/BELAJAR">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<br><br>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/IndraT99/templatewu">templatewu</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/IndraT99/lspp1">lspp1</a></h3><p>A selected public project.</p><p><sub>Blade · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/IndraT99/RobloxScript">RobloxScript</a></h3><p>A selected public project.</p><p><sub>Lua · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IndraT99&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="165"/>
+<h2>Technical toolkit</h2>
 
-<br><br>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=indrat99&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141636662%3Fu%3D61a298499ec3100bb6ef86dd91bc05c4639afe78%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=indrat99&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141636662%3Fu%3D61a298499ec3100bb6ef86dd91bc05c4639afe78%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="IndraBrahma technology stack" />
+</picture>
+</p>
 
-<a href="https://rscripts.net/user/indrahub" target="_blank"><img alt="indrahub on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/indrahub?theme=dark" /></a>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Lua</strong><br /><sub>55% of public code</sub></td>
+<td width="20%" align="center"><strong>Blade</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<h2>Consistency signal</h2>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=indrat99&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141636662%3Fu%3D61a298499ec3100bb6ef86dd91bc05c4639afe78%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=indrat99&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F141636662%3Fu%3D61a298499ec3100bb6ef86dd91bc05c4639afe78%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="IndraBrahma contribution activity" />
+</picture>
+</p>
 
-buat ini menjadi lebih bagus dan ada animasi dari anime naruto
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/indrat99">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>IndraBrahma · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
